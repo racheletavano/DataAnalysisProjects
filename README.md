@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @racheletavano
 - 👀 I’m interested in data analysis and transport engineering
-- 🌱 I’m currently learning R studio
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on data analysis projects
 
 
